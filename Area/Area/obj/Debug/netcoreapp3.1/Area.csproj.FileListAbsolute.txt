@@ -1,0 +1,11 @@
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\bin\Debug\netcoreapp3.1\Area.exe
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\bin\Debug\netcoreapp3.1\Area.dll
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\bin\Debug\netcoreapp3.1\Area.pdb
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\obj\Debug\netcoreapp3.1\Area.csprojAssemblyReference.cache
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\obj\Debug\netcoreapp3.1\Area.dll
+D:\Kiratveer Singh Grewal\sem2\c#\Area\Area\obj\Debug\netcoreapp3.1\Area.pdb
