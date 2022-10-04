@@ -1,0 +1,11 @@
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\bin\Debug\netcoreapp3.1\april13_4.exe
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\bin\Debug\netcoreapp3.1\april13_4.deps.json
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\bin\Debug\netcoreapp3.1\april13_4.runtimeconfig.json
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\bin\Debug\netcoreapp3.1\april13_4.runtimeconfig.dev.json
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\bin\Debug\netcoreapp3.1\april13_4.dll
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\bin\Debug\netcoreapp3.1\april13_4.pdb
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\obj\Debug\netcoreapp3.1\april13_4.csprojAssemblyReference.cache
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\obj\Debug\netcoreapp3.1\april13_4.AssemblyInfoInputs.cache
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\obj\Debug\netcoreapp3.1\april13_4.AssemblyInfo.cs
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\obj\Debug\netcoreapp3.1\april13_4.dll
+D:\Kiratveer Singh Grewal\sem2\c#\april13_4\april13_4\obj\Debug\netcoreapp3.1\april13_4.pdb
