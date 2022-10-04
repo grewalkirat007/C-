@@ -1,0 +1,11 @@
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.exe
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.deps.json
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.runtimeconfig.json
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.runtimeconfig.dev.json
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.dll
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\bin\Debug\netcoreapp3.1\Arrayassignment.pdb
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.csprojAssemblyReference.cache
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.AssemblyInfoInputs.cache
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.AssemblyInfo.cs
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.dll
+D:\Kiratveer Singh Grewal\sem2\c#\Arrayassignment\Arrayassignment\obj\Debug\netcoreapp3.1\Arrayassignment.pdb

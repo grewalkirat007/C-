@@ -1,0 +1,10 @@
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\bin\Debug\netcoreapp3.1\exponent_base.exe
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\bin\Debug\netcoreapp3.1\exponent_base.deps.json
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\bin\Debug\netcoreapp3.1\exponent_base.runtimeconfig.json
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\bin\Debug\netcoreapp3.1\exponent_base.runtimeconfig.dev.json
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\bin\Debug\netcoreapp3.1\exponent_base.dll
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\bin\Debug\netcoreapp3.1\exponent_base.pdb
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\obj\Debug\netcoreapp3.1\exponent_base.AssemblyInfoInputs.cache
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\obj\Debug\netcoreapp3.1\exponent_base.AssemblyInfo.cs
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\obj\Debug\netcoreapp3.1\exponent_base.dll
+D:\Kiratveer Singh Grewal\sem2\c#\exponent_base\exponent_base\obj\Debug\netcoreapp3.1\exponent_base.pdb

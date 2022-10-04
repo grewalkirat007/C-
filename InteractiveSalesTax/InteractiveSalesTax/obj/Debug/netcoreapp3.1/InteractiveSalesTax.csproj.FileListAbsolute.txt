@@ -1,0 +1,11 @@
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.exe
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.deps.json
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.runtimeconfig.json
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.runtimeconfig.dev.json
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.dll
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.pdb
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.csprojAssemblyReference.cache
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.AssemblyInfoInputs.cache
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.AssemblyInfo.cs
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.dll
+D:\Kiratveer Singh Grewal\sem2\c#\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.pdb
