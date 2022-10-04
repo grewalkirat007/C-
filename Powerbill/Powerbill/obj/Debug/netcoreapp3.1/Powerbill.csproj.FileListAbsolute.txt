@@ -1,0 +1,11 @@
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\bin\Debug\netcoreapp3.1\Powerbill.exe
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\bin\Debug\netcoreapp3.1\Powerbill.deps.json
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\bin\Debug\netcoreapp3.1\Powerbill.runtimeconfig.json
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\bin\Debug\netcoreapp3.1\Powerbill.runtimeconfig.dev.json
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\bin\Debug\netcoreapp3.1\Powerbill.dll
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\bin\Debug\netcoreapp3.1\Powerbill.pdb
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\obj\Debug\netcoreapp3.1\Powerbill.csprojAssemblyReference.cache
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\obj\Debug\netcoreapp3.1\Powerbill.AssemblyInfoInputs.cache
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\obj\Debug\netcoreapp3.1\Powerbill.AssemblyInfo.cs
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\obj\Debug\netcoreapp3.1\Powerbill.dll
+D:\Kiratveer Singh Grewal\sem2\c#\Powerbill\Powerbill\obj\Debug\netcoreapp3.1\Powerbill.pdb
