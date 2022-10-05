@@ -1,0 +1,32 @@
+﻿
+@model powerbill.Models.bill
+@{
+    ViewBag.Title = "Power Bill";
+}
+<center>
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Index" method="post">
+                <div class="form-group">
+                    <label asp-for="total_kilowatt">Total Kilowatt Used : </label>
+                    <input type="number" asp-for="total_kilowatt" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="hours">Hours : </label>
+                    <input type="number" asp-for="hours" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="cost">Cost : </label>
+                    <input type="number" asp-for="cost" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Result:</label>
+                    <input value="@ViewBag.ans.ToString()" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="form-control" />
+                </div>
+            </form>
+        </div>
+    </div>
+</center>
